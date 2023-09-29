@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Istanbul-1 and i am a student.
 - 👀 I’m interested in languages (Python, R), datas, ai, machine learning.
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning how can i use datas
